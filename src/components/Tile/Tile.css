@@ -1,0 +1,43 @@
+img{
+    text-align: center;
+    padding-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    height:80px;
+}
+
+.column{
+    padding:20px;
+    display: inline-block;
+}
+.row{
+    padding-bottom: 30px;
+}
+
+.image-container{
+    padding-top: 15px;
+    background-color: white;
+     padding-bottom: 15px;
+    width: 250px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.skill-name{
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+     padding-bottom: 15px; 
+    font-weight: bold;
+    width: 250px;
+}
+.skill-written{
+    text-align: center;
+    background-color: white;
+    height:100px;
+    display: block;
+    width: 250px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
